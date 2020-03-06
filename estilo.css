@@ -1,3 +1,13 @@
 body{
     background: yellow;
 }
+p{
+    font-size: 45px;
+    font-family: Arial;
+    color: brown;
+}
+p.formato{
+    font-size: 15px;
+    color: red;
+    font-family: 'Courier New';
+}
